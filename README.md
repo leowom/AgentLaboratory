@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="media/AgentLabLogo.png" alt="Demonstration of the flow of AgentClinic" style="width: 99%;">
+  <img src="media/AgentLabLogo.png" alt="Demonstration of the flow of AgentClinic" style="width: 98%;">
 </p>
 
 <p align="center">
